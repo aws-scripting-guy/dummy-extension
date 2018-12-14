@@ -3,7 +3,7 @@
 	"displayName": "Snippet Sample",
 	"description": "Snippet Sample",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "aws-scripting-guy",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
