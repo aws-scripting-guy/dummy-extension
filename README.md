@@ -1,5 +1,7 @@
 # dummy-extension
-Testing integration with Azure Pipelines
+Testing integration with Azure Pipelines 
+
+[![Build Status](https://dev.azure.com/aws-scripting-guy/dummy-extension/_apis/build/status/Build%20Pipeline?branchName=master)](https://dev.azure.com/aws-scripting-guy/dummy-extension/_build/latest?definitionId=2?branchName=master)
 
 ## Snippet Sample
 
