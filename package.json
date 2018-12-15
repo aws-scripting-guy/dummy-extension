@@ -6,7 +6,6 @@
         	"type": "git",
         	"url": "https://github.com/aws-scripting-guy/dummy-extension.git"
     	},
-	"version": "0.1.0",
 	"publisher": "aws-scripting-guy-dev",
 	"engines": {
 		"vscode": "^1.28.0"
